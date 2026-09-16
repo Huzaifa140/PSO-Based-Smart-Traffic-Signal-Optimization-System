@@ -138,16 +138,6 @@ def compute_waiting_time(green_times, vehicle_counts):
 - **Framework**: Streamlit
 
 ---
-
-## 👨‍💻 Team Members
-
-| Name | Roll No |
-|------|---------|
-| [Student 1] | [XXXX] |
-| [Student 2] | [XXXX] |
-
----
-
 ## 📚 References
 
 1. Kennedy, J. & Eberhart, R. (1995). *Particle Swarm Optimization*. IEEE ICNN.
